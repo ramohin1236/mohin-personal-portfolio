@@ -3,7 +3,7 @@
   {
     "name": "Blogging Website",
     "desc": "This is a Full Stack Bloggin website.If you want you can publish your blog in this website.",
-    "image": "/blog.png",
+    "image": "./blog.png",
     "category": "mern",
     "links": {
       "view": "https://new-blog-app.onrender.com/",
@@ -13,7 +13,7 @@
   {
     "name": "Real Time Chat Application",
     "desc": "This is a real time chat application. By using it anybody can chat with his/her friends.",
-    "image": "/chat.png",
+    "image": "./chat.png",
     "category": "mern",
     "links": {
       "view": "https://chat-application-nu-lilac.vercel.app/chats",
@@ -23,7 +23,7 @@
   {
     "name": "Resturant",
     "desc": "This is a Full Stack resturant website.If a resturant owner wants to use it he can use it.",
-    "image": "/resturant.png",
+    "image": "./resturant.png",
     "category": "mern",
     "links": {
       "view": "https://sodium-cafe-87d7c.web.app/",
@@ -34,7 +34,7 @@
   {
     "name": "Tourist Guide Website",
     "desc": "This is a Full Stack Travel guide website.This is my teamwork website.It is a client website.",
-    "image": "/travel.png",
+    "image": "./travel.png",
     "category": "lamp",
     "links": {
       "view": "https://japantraveltour.craftysoft.com/",
@@ -44,7 +44,7 @@
   {
     "name": "E-commerce",
     "desc": "This is an e-commerce website.This is my team-work project. ",
-    "image": "/furniture.png",
+    "image": "./furniture.png",
     "category": "basicweb",
     "links": {
       "view": "https://shiny-puffpuff-83c2e7.netlify.app/",
