@@ -11,13 +11,13 @@
     }
   },
   {
-    "name": "Real Time Chat Application",
-    "desc": "This is a real time chat application. By using it anybody can chat with his/her friends.",
-    "image": "./assets/images/chat.png",
-    "category": "mern",
+    "name": "Task Management",
+    "desc": "This is a task management website.",
+    "image": "./assets/images/task.png",
+    "category": "basicweb",
     "links": {
-      "view": "https://chat-application-nu-lilac.vercel.app/chats",
-      "code": "https://github.com/ramohin1236/chat-application"
+      "view": "https://task-maa.netlify.app",
+      "code": "https://github.com/ramohin1236/redux-task-management"
     }
   },
   {
@@ -28,6 +28,16 @@
     "links": {
       "view": "https://sodium-cafe-87d7c.web.app/",
       "code": "https://github.com/ramohin1236/sodium-cafe"
+    }
+  },
+  {
+    "name": "Real Time Chat Application",
+    "desc": "This is a real time chat application. By using it anybody can chat with his/her friends.",
+    "image": "./assets/images/chat.png",
+    "category": "mern",
+    "links": {
+      "view": "https://chat-application-nu-lilac.vercel.app/chats",
+      "code": "https://github.com/ramohin1236/chat-application"
     }
   },
 
