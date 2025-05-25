@@ -1,4 +1,14 @@
 [
+   {
+    "name": "Foodie",
+    "desc": "This is a Full Stack resturant website.If a resturant owner wants to use it he can use it.",
+    "image": "./assets/images/foodie.png",
+    "category": "mern",
+    "links": {
+      "view": "https://sodium-cafe-87d7c.web.app/",
+      "code": "https://github.com/ramohin1236/sodium-cafe"
+    }
+  },
 
   {
     "name": "Blogging Website",
@@ -20,16 +30,7 @@
       "code": "https://github.com/ramohin1236/redux-task-management"
     }
   },
-  {
-    "name": "Resturant",
-    "desc": "This is a Full Stack resturant website.If a resturant owner wants to use it he can use it.",
-    "image": "./assets/images/resturant.png",
-    "category": "mern",
-    "links": {
-      "view": "https://sodium-cafe-87d7c.web.app/",
-      "code": "https://github.com/ramohin1236/sodium-cafe"
-    }
-  },
+ 
   {
     "name": "Real Time Chat Application",
     "desc": "This is a real time chat application. By using it anybody can chat with his/her friends.",
